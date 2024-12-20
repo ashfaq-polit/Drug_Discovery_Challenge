@@ -14,5 +14,11 @@ The 'best_model.pkl' file is the saved machine learning model that performed bes
 
 The 'dnn_model.h5' file is the saved deep learning model 
 
+# Additional Information
+
+The details about the model training and development are available in the pythin scripts above (see comments where applicable)
+and also the workflow is described on a high level in the powerpoint 'Drug Discovery Challenge_ASHFAQ AHMED.pptx'. 
+The powerpoints sheds a picture of what's going under the hood.
+
 
 
