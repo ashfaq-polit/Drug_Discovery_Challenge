@@ -1,0 +1,4 @@
+rdkit 
+pubchempy
+bioservices
+biopython
