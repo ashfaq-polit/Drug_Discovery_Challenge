@@ -16,7 +16,7 @@ The 'dnn_model.h5' file is the saved deep learning model
 
 ## Additional Information
 
-The details about the model training and development are available in the pythin scripts above (see comments where applicable)
+The details about the model training and development are available in the Python scripts above (see comments where applicable)
 and also the workflow is described on a high level in the powerpoint 'Drug Discovery Challenge_ASHFAQ AHMED.pptx'. 
 The powerpoint sheds a picture of what's going under the hood.
 
