@@ -48,7 +48,7 @@ df['kiba_score_estimated'].value_counts()
 
 """**Sample the Dataset**"""
 
-# Randomly sample 1000 rows
+# Randomly sample 10000 rows
 sampled_df = df.sample(n=10000, random_state=42).reset_index(drop=True)
 # Set random_state for reproducibility (alternate: df[:1000])
 # print(sampled_df)
